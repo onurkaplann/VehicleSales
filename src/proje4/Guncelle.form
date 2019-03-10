@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" pref="277" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="-2" pref="72" max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Component id="aracadonbtn" alignment="1" max="32767" attributes="0"/>
+                      <Component id="btnguncelle" alignment="1" max="32767" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="97" max="-2" attributes="0"/>
+                          <Component id="txtilanfiyat" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel8" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel10" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel7" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel11" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel12" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="jLabel4" alignment="1" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="txtarabavitesturuid" max="32767" attributes="0"/>
+                              <Component id="txtarabayakitturuid" max="32767" attributes="0"/>
+                              <Component id="txtsehirid" max="32767" attributes="0"/>
+                              <Component id="txtarabamarka" max="32767" attributes="0"/>
+                              <Component id="txtarabamodel" alignment="1" max="32767" attributes="0"/>
+                              <Component id="txtkm" max="32767" attributes="0"/>
+                              <Component id="txttarih" alignment="1" max="32767" attributes="0"/>
+                              <Group type="102" attributes="0">
+                                  <Component id="txtarabarenkid" min="-2" pref="116" max="-2" attributes="0"/>
+                                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel2" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                              <Component id="jLabel6" alignment="0" min="-2" pref="60" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="txtilanadi" max="32767" attributes="0"/>
+                              <Component id="txtarabaid" alignment="1" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="139" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" pref="38" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtarabaid" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtilanadi" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel9" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtilanfiyat" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtarabamarka" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtarabamodel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtarabarenkid" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtarabavitesturuid" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel7" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtarabayakitturuid" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel10" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtkm" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel11" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txttarih" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel12" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtsehirid" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                  <Component id="btnguncelle" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="aracadonbtn" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="18" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="G&#xdc;NCELLEME"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="ArabaID :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x130;lan Ad&#x131; :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel9">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Fiyat :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Araba Marka :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Araba RenkID :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Araba VitesT&#xfc;r&#xfc;ID :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel7">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Araba Yak&#x131;tT&#xfc;r&#xfc;ID :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel10">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Km :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel11">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Tarih :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel12">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x15e;ehirID :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel8">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Araba Model :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="txtarabarenkid">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="19">
+                <StringItem index="0" value="-"/>
+                <StringItem index="1" value="Bej"/>
+                <StringItem index="2" value="Beyaz"/>
+                <StringItem index="3" value="Bordo"/>
+                <StringItem index="4" value="F&#xfc;me"/>
+                <StringItem index="5" value="Gri"/>
+                <StringItem index="6" value="G&#xfc;m&#xfc;&#x15f; Gri"/>
+                <StringItem index="7" value="Kahverengi"/>
+                <StringItem index="8" value="K&#x131;rm&#x131;z&#x131;"/>
+                <StringItem index="9" value="Lacivert"/>
+                <StringItem index="10" value="Mavi"/>
+                <StringItem index="11" value="Mor"/>
+                <StringItem index="12" value="Pembe"/>
+                <StringItem index="13" value="Sar&#x131;"/>
+                <StringItem index="14" value="Siyah"/>
+                <StringItem index="15" value="&#x15e;ampanya"/>
+                <StringItem index="16" value="Turkuaz"/>
+                <StringItem index="17" value="Turuncu"/>
+                <StringItem index="18" value="Ye&#x15f;il"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="txtarabavitesturuid">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="4">
+                <StringItem index="0" value="-"/>
+                <StringItem index="1" value="Manuel"/>
+                <StringItem index="2" value="Otomatik"/>
+                <StringItem index="3" value="Yar&#x131;-Otomatik"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="txtarabayakitturuid">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="6">
+                <StringItem index="0" value="-"/>
+                <StringItem index="1" value="Benzin"/>
+                <StringItem index="2" value="Lpg"/>
+                <StringItem index="3" value="Diesel"/>
+                <StringItem index="4" value="Elektrik"/>
+                <StringItem index="5" value="Hibrit"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="txtsehirid">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="82">
+                <StringItem index="0" value="-"/>
+                <StringItem index="1" value="Adana "/>
+                <StringItem index="2" value="Adiyaman "/>
+                <StringItem index="3" value="Afyonkarahisar "/>
+                <StringItem index="4" value="Agri "/>
+                <StringItem index="5" value="Amasya "/>
+                <StringItem index="6" value="Ankara "/>
+                <StringItem index="7" value="Antalya "/>
+                <StringItem index="8" value="Artvin "/>
+                <StringItem index="9" value="Aydin "/>
+                <StringItem index="10" value="Balikesir "/>
+                <StringItem index="11" value="Bilecik "/>
+                <StringItem index="12" value="Bing&#xf6;l "/>
+                <StringItem index="13" value="Bitlis "/>
+                <StringItem index="14" value="Bolu "/>
+                <StringItem index="15" value="Burdur "/>
+                <StringItem index="16" value="Bursa "/>
+                <StringItem index="17" value="&#xc7;anakkale "/>
+                <StringItem index="18" value="&#xc7;ankiri "/>
+                <StringItem index="19" value="&#xc7;orum "/>
+                <StringItem index="20" value="Denizli "/>
+                <StringItem index="21" value="Diyarbakir "/>
+                <StringItem index="22" value="Edirne "/>
+                <StringItem index="23" value="Elazig "/>
+                <StringItem index="24" value="Erzincan "/>
+                <StringItem index="25" value="Erzurum "/>
+                <StringItem index="26" value="Eskisehir "/>
+                <StringItem index="27" value="Gaziantep "/>
+                <StringItem index="28" value="Giresun "/>
+                <StringItem index="29" value="G&#xfc;m&#xfc;shane "/>
+                <StringItem index="30" value="Hakkari "/>
+                <StringItem index="31" value="Hatay "/>
+                <StringItem index="32" value="Isparta "/>
+                <StringItem index="33" value="Mersin "/>
+                <StringItem index="34" value="Istanbul "/>
+                <StringItem index="35" value="Izmir "/>
+                <StringItem index="36" value="Kars "/>
+                <StringItem index="37" value="Kastamonu "/>
+                <StringItem index="38" value="Kayseri "/>
+                <StringItem index="39" value="Kirklareli "/>
+                <StringItem index="40" value="Kirsehir "/>
+                <StringItem index="41" value="Kocaeli "/>
+                <StringItem index="42" value="Konya "/>
+                <StringItem index="43" value="K&#xfc;tahya "/>
+                <StringItem index="44" value="Malatya "/>
+                <StringItem index="45" value="Manisa "/>
+                <StringItem index="46" value="K.maras "/>
+                <StringItem index="47" value="Mardin "/>
+                <StringItem index="48" value="Mugla "/>
+                <StringItem index="49" value="Mus "/>
+                <StringItem index="50" value="Nevsehir "/>
+                <StringItem index="51" value="Nigde "/>
+                <StringItem index="52" value="Ordu "/>
+                <StringItem index="53" value="Rize "/>
+                <StringItem index="54" value="Sakarya "/>
+                <StringItem index="55" value="Samsun "/>
+                <StringItem index="56" value="Siirt "/>
+                <StringItem index="57" value="Sinop "/>
+                <StringItem index="58" value="Sivas "/>
+                <StringItem index="59" value="Tekirdag "/>
+                <StringItem index="60" value="Tokat "/>
+                <StringItem index="61" value="Trabzon "/>
+                <StringItem index="62" value="Tunceli "/>
+                <StringItem index="63" value="Sanliurfa "/>
+                <StringItem index="64" value="Usak "/>
+                <StringItem index="65" value="Van "/>
+                <StringItem index="66" value="Yozgat "/>
+                <StringItem index="67" value="Zonguldak "/>
+                <StringItem index="68" value="Aksaray "/>
+                <StringItem index="69" value="Bayburt "/>
+                <StringItem index="70" value="Karaman "/>
+                <StringItem index="71" value="Kirikkale "/>
+                <StringItem index="72" value="Batman "/>
+                <StringItem index="73" value="Sirnak "/>
+                <StringItem index="74" value="Bartin "/>
+                <StringItem index="75" value="Ardahan "/>
+                <StringItem index="76" value="Igdir "/>
+                <StringItem index="77" value="Yalova "/>
+                <StringItem index="78" value="Karab&#xfc;k "/>
+                <StringItem index="79" value="Kilis "/>
+                <StringItem index="80" value="Osmaniye "/>
+                <StringItem index="81" value="D&#xfc;zce"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtilanadi">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtilanfiyat">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtarabaid">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtarabamarka">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtarabamodel">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtkm">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txttarih">
+        </Component>
+        <Component class="javax.swing.JToggleButton" name="btnguncelle">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="G&#xfc;ncelle"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnguncelleActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JToggleButton" name="aracadonbtn">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Geri D&#xf6;n"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="aracadonbtnMouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
